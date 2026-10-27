@@ -1,137 +1,65 @@
-<div align="center">
+# Hi, I'm Ayush Kumar
 
-<a href="https://github.com/vermaayush84300-alt">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=44&duration=2500&pause=1500&color=E0B25C&center=true&vCenter=true&width=700&height=90&lines=Hi%2C+I'm+Ayush+Kumar" alt="Hi, I'm Ayush Kumar" />
-</a>
-
-<img src="https://img.shields.io/badge/-CSE%20Student-E0B25C?style=for-the-badge&labelColor=0A0B0D" alt="CSE Student" />
-<img src="https://img.shields.io/badge/-Full--Stack%20Developer-E0B25C?style=for-the-badge&labelColor=0A0B0D" alt="Full-Stack Developer" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E0B25C&center=true&vCenter=true&width=640&lines=Building+responsive+React+web+apps;Solving+DSA+problems+in+C%2B%2B;Learning+Machine+Learning+with+Python;Open+to+internships+and+collaboration" alt="Typing animation" />
-</a>
+**CSE Student & Full-Stack Developer** | B.Tech CSE, ABES Engineering College ('29)  
+*Building responsive React web apps, solving DSA problems in C++, and learning Machine Learning with Python and demonstrating to build different types of real world projects*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vermaayush84300-alt&label=Profile%20views&color=E0B25C&style=for-the-badge" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/ayush-kumar-15a04a401/"><img src="https://img.shields.io/badge/LinkedIn-Ayush%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:vermaayush84300@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vermaayush84300-alt"><img src="https://img.shields.io/static/v1?label=GITHUB&message=FOLLOW&color=181717&style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-15a04a401/"><img src="https://img.shields.io/static/v1?label=LINKEDIN&message=CONNECT&color=0077B5&style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:vermaayush84300@gmail.com"><img src="https://img.shields.io/static/v1?label=GMAIL&message=CONTACT%20ME&color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-</div>
+---
+
+## 🛠️ Core Engineering skills
+
+- **Languages & Core CS:** Python, C++ (Data Structures & Algorithms), C, JavaScript, SQL.
+- **Web Development:** HTML5, CSS3, React.js, Node.js, Express.js, RESTful APIs.
+- **Databases & Cloud:** MongoDB.
+- **ML & Libraries:** NumPy, Pandas, Scikit-Learn, PyTorch, OpenCV, Matplotlib.
+- **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Postman.
+- **Core Competencies:** Full-Stack Web Development, Responsive UI Design, OOP.
 
 ---
 
-## About Me
+## 🚀 Featured Projects
 
-I'm a first-year **B.Tech Computer Science and Engineering** student at **ABES Engineering College, Ghaziabad**, building real web projects and sharpening my problem-solving every day.
-
-| | |
-| --- | --- |
-| **Currently** | Building React apps and exploring full-stack development |
-| **Learning** | Machine Learning with Python, Node.js, Express and MongoDB |
-| **Practising** | DSA in C++ on LeetCode and CodeChef |
-| **Education** | B.Tech CSE, 2025 - 2029, CGPA 9.2 / 10 |
-| **Based in** | Ghaziabad, Uttar Pradesh, India |
-| **Ask me about** | React, JavaScript, responsive UI, C++ and DSA |
+| Project | Description & Stack | Live Deployment |
+| :--- | :--- | :--- |
+| **Krashi** | Farming helper website where a farmer enters soil type, season, rainfall, state and irrigation to get crop suggestions. Includes sections for crops, trees, fertilizers, pesticides and natural inputs, a 7-day weather forecast, and 11 languages including Hindi, Punjabi, Marathi and Tamil. *HTML5, CSS3, JavaScript, Weather API.* | [Live Demo](https://snazzy-entremet-031081.netlify.app/) |
+| **ABtalks Redesign** | Redesign of ABTalks, a 60-day build-in-public challenge for Indian college students, rebuilt from scratch in React with Tailwind and kept responsive on phone, tablet and desktop, with smooth spacing and animations. *React.js, Tailwind CSS, JavaScript.* | [Live Demo](https://abtalks-redesign-9be6f9.netlify.app/) |
+| **SmartFlex** | Web platform for managing renewable energy at the neighbourhood level, where homes in one area share the power they generate. The dashboard answers how much is produced, how much is used and where the extra goes. *HTML5, CSS3, JavaScript.* | [Live Demo](https://smartflex-67cc24.netlify.app/) |
 
 ---
 
-## Tech Stack
+## 🎓 Academic & Learning Milestones
 
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" alt="Languages" />
-</p>
-
-**Web and databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb,mysql" alt="Web and databases" />
-</p>
-
-**ML and tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas,opencv,git,github,vscode,postman,gcp" alt="ML and tools" />
-</p>
-
-| Area | Technologies |
-| --- | --- |
-| **Programming** | Python, C++, C, JavaScript, SQL |
-| **Web** | HTML5, CSS3, React.js, Node.js, Express.js, RESTful APIs |
-| **Databases and cloud** | MongoDB, MySQL, Google Cloud Platform |
-| **ML and libraries** | NumPy, Pandas, Scikit-Learn, PyTorch, OpenCV, Matplotlib |
-| **Tools** | Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Postman |
+- **Institution:** ABES Engineering College, Ghaziabad (Affiliated to AKTU, Lucknow), B.Tech CSE, 2025 - 2029.
+- **CGPA:** **9.31 / 10.0** (1st Year YGPA: 9.31, 46/46 credits).
+- **Relevant Coursework:** Data Structures & Algorithms in C++, Object-Oriented Programming, Database Management Systems, Linear Algebra, Probability & Statistics, Machine Learning Foundations, Discrete Mathematics.
+- **Currently Learning:** Machine Learning with Python, Node.js, Express and MongoDB.
 
 ---
 
-## Featured Projects
+## 🏆 Certifications
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://snazzy-entremet-031081.netlify.app/">
-        <img src="https://img.shields.io/badge/KRASHI-Farming%20helper-34D399?style=for-the-badge&labelColor=0b2210&logoColor=white" alt="KRASHI" />
-      </a>
-      <h3>Krashi</h3>
-      <p>Farming helper website: farmers enter soil type, season, rainfall, state and irrigation to get crop suggestions. Includes a 7-day weather forecast and 11 languages.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js" alt="Krashi stack" /></p>
-      <p><a href="https://snazzy-entremet-031081.netlify.app/"><b>Live demo</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://abtalks-redesign-9be6f9.netlify.app/">
-        <img src="https://img.shields.io/badge/ABTALKS-Redesign-A78BFA?style=for-the-badge&labelColor=130a2e&logoColor=white" alt="ABTALKS" />
-      </a>
-      <h3>ABtalks Redesign</h3>
-      <p>Redesign of a 60-day build-in-public challenge site for Indian college students, rebuilt from scratch in React with Tailwind and responsive on phone, tablet and desktop.</p>
-      <p><img src="https://skillicons.dev/icons?i=react,tailwind,js" alt="ABtalks stack" /></p>
-      <p><a href="https://abtalks-redesign-9be6f9.netlify.app/"><b>Live demo</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://smartflex-67cc24.netlify.app/">
-        <img src="https://img.shields.io/badge/SMARTFLEX-Renewable%20energy-38BDF8?style=for-the-badge&labelColor=071e3d&logoColor=white" alt="SMARTFLEX" />
-      </a>
-      <h3>SmartFlex</h3>
-      <p>Web platform for neighbourhood-level renewable energy, where homes share the power they generate. The dashboard shows how much is produced, used and where the extra goes.</p>
-      <p><img src="https://skillicons.dev/icons?i=html,css,js" alt="SmartFlex stack" /></p>
-      <p><a href="https://smartflex-67cc24.netlify.app/"><b>Live demo</b></a></p>
-    </td>
-  </tr>
-</table>
+- **Introduction AI Essentials and Prompt Essentials** — Coursera
+- **Introduction to AI and Cybersecurity** — TCS iON
+- **React Basic to Advance and How to Use Antigravity** — PW Skills
+- **Quiz Certification** — Campuscrew
 
 ---
 
-## Certifications
+## 🌟 Coding Profiles & Activities
 
-| Certification | Issuer |
-| --- | --- |
-| AI Essentials and Prompt Essentials | Coursera |
-| Introduction to AI and Cybersecurity | TCS iON |
-| React Basic to Advance and How to Use Antigravity | PW Skills |
-| Quiz Certification | Campuscrew |
+- **CodeChef & LeetCode:** Active member, regularly solving problems and taking part in contests to keep DSA sharp.
+- **Hackathons & Quizzes:** Took part in national and college-level hackathons, working on real problem statements in a team.
+- **GitHub:** Keep repos of web projects and DSA practice, updated whenever I build something new.
 
 ---
 
-## Coding Profiles and Activities
+## 📫 Let's Connect
 
-- Active on **CodeChef** and **LeetCode**, solving problems and joining contests to keep DSA sharp.
-- Took part in national and college-level **hackathons**, working on real problem statements in a team.
-- Keep repos of web projects and DSA practice, updated whenever I build something new.
-
----
-
-## Let's Connect
-
-<p>
-  <a href="mailto:vermaayush84300@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/ayush-kumar-15a04a401/"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
-  <a href="https://github.com/vermaayush84300-alt"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
-</p>
-
-<div align="center">
-
-
-
-</div>
-
+- **Email:** [vermaayush84300@gmail.com](mailto:vermaayush84300@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ayush-kumar-15a04a401](https://www.linkedin.com/in/ayush-kumar-15a04a401/)
+- **Location:** Ghaziabad, Uttar Pradesh, India
